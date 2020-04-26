@@ -440,7 +440,7 @@ p2 <- all_cumul  %>%
 
 p1 + p2
 
-ggsave(p1+p2, filename = "figures/runoff_estimate_cumulative_update_em_ci.pdf")
+#ggsave(p1+p2, filename = "figures/runoff_estimate_cumulative_update_em_ci.pdf")
 
 
 
