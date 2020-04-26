@@ -2,6 +2,8 @@
 Code used to check how much capacity China has to control Mekong river flow at Chiang Saen.
 Note 26th April 2020: The code depends on hydrostreamer v0.5, currently only available in the hydrostreamer github repository dev-branch!
 
+If using this code, or the figures, please cite the following article: {cit}
+
 The repository does NOT include the data (apart from the sub-basin areas) required to run this code.
 
 To replicate the results, you will need:
