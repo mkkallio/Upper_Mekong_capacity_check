@@ -1,8 +1,9 @@
 # Upper_Mekong_capacity_check
-Code used to check how much capacity China has to control Mekong river flow at Chiang Saen.
+Code used to check how much capacity China has to control Mekong river flow at Chiang Saen for the article https://www.csds-chula.org/publications/2020/4/28/critical-nature-are-chinas-dams-on-the-mekong-causing-downstream-drought-the-importance-of-scientific-debate. If using this code, or the figures in publications, please cite the article.
+
 Note 26th April 2020: The code depends on hydrostreamer v0.5, currently only available in the hydrostreamer github repository dev-branch!
 
-If using this code, or the figures, please cite the following article: {cit}
+
 
 The repository does NOT include the data (apart from the sub-basin areas) required to run this code.
 
